@@ -1,6 +1,8 @@
 # craptop
 
-craptop is a simple Python script that mimics the functionality of system monitoring tools like `top` or `htop`. It displays real-time CPU and memory usage statistics, as well as a list of the top 20 running processes by CPU usage. I built this using 100% prompt engineering in ChatGPT to see if it could build me a useable tool without ever touching code.
+I built this using 100% prompt engineering in ChatGPT to see if it could build me a useable tool without ever touching code. 
+
+craptop is a simple Python script that mimics the functionality of system monitoring tools like `top` or `htop`. It displays real-time CPU and memory usage statistics, as well as a list of the top 20 running processes by CPU usage. 
 
 ## Features
 
